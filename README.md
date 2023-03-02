@@ -4,9 +4,28 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 👾 What we'll create:
 
+This was the login form in the previous session ⬇️
+
 ![Finished](src/assets/finished.png)
 
+## 📌 Updates: 
+
+- Setup routes in the project by installing `react-router-dom` package and creating Home and Login page. 
+- Created a Firebase project. Create a new project and enable Authentication in your project. 
+
+[🫧 Firebase Website](https://firebase.google.com/) 
+
+- Copy the credentials from the Firebase and create your `.env.local` file and create a Firebase service file.
+
+- _**🌁 UI updates**_: Added a sign in with google button and home page ⬇️
+
+![Updated Login](src/assets/updated.png)
+
+![Home](src/assets/home.png)
+
 ### [⚡️ Material UI Documentaition](https://mui.com/material-ui/getting-started/overview/)
+
+### [🗂️ Firebase Authentication Docs](https://firebase.google.com/docs/auth/web/password-auth)
 
 ## Available Scripts
 In the project directory, you can run:
